@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @WolfyUnderscore
-- 👀 I’m interested in writing massive codes.
-- 🌱 I’m currently learning something beyond your expectation.
-- 💞️ I’m looking to collaborate on no ones.
-- 📫 How to reach me : it is impossible.
-
-
-<!---
-WolfyUnderscore/WolfyUnderscore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there! My name @AdibAziman and I'm a computer science graduate with a passion for coding and problem-solving.
+- 👀 I’m interested in writing massive codes and I love connecting with people from all over the world through my work on GitHub.
+- 🌱 I’m currently learning something beyond your expectation. From there, I dove headfirst into the world of software development and never looked back.
+- 💞️ I'm constantly pushing myself to learn new technologies and expand my skill set. I'm particularly interested in web development, and I love building beautiful, functional websites that make people's lives easier.
+- 📫 How to reach me : 
+- :iphone: Whatsapp - https://wa.link/86lpc2 
+- :desktop_computer: LinkedIn - https://www.linkedin.com/in/adibaziman/
